@@ -1,0 +1,15 @@
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.exe
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.deps.json
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.runtimeconfig.json
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.runtimeconfig.dev.json
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.dll
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.pdb
+C:\Users\erik_\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.csprojAssemblyReference.cache
+C:\Users\erik_\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfoInputs.cache
+C:\Users\erik_\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfo.cs
+C:\Users\erik_\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.dll
+C:\Users\erik_\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.pdb
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Npgsql.pdb
+C:\Users\erik_\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Npgsql.xml
+C:\Users\erik_\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.csproj.CopyComplete
