@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+        <title>Altas</title>
+    </head>
+    <body>
+        <form name="formulario" action="modificar.jsp" method="GETs">
+            <div>
+                <label>Nombre: </label> 
+                <input maxlength="18" type="text" name="nombre" size=20>
+                <br><br>
+                <label>Curp: </label> 
+                <input maxlength="18" type="text" name="curp" size=20>
+                <br><br>
+                <label>Apellidos:</label> 
+                <input maxlength="18" type="text" name="apellidos" size=20>
+                <br><br>
+                <label>Rfc: </label> 
+                <input maxlength="18" type="text" name="rfc" size=20>
+                <br><br>
+                <label>Edo civil: </label>
+                <select name="edo_civil">
+                    <option value="Soltero">Soltero</option>
+                    <option value="Casado">Casado</option>
+                    <option value="Union libre">Union libre</option>
+                    <option value="Divorciado">Divorciado</option>
+                    <option value="Viudo">Viudo</option>
+                </select> <!--Se crea un input el cual se ponen datop sque se ocuparan despues-->
+                <br><br>              
+                <input type="submit" name="" value="Modificar"> <!--Se crea un boton de timo submit el cual ejecuta una acción-->
+            </div>
+        </form>
+    </body>
+</html>
