@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Registrar Persona</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link  rel="stylesheet"  href="css/estilos.css">
+        <script src='https://www.google.com/recaptcha/api.js'></script>
+    </head>
+    <body>
+        <h1>Registrate</h1>
+        <form action="AgregarPersona.jsp" method="post" onsubmit="return miFuncion()">
+            <label>Nombre:</label>
+            <input type="text" name="n" placeholder="Ingresa tu nombre" required="required"/>
+            <label>Apellidos:</label>
+            <input type="text" name="a" placeholder="Ingresa tus Apellidos" required="required"/>
+            <label>Fecha de nacimiento:</label>
+            <input type="date" name="fecha" required="required"/>
+            <label>Selecciona tu genero:</label><br>
+            <input type="radio" id="hombre" name="gender" value="M" required="required"/>
+            <label class="no">Hombre</label><br>
+            <input type="radio" id="mujer" name="gender" value="F" required="required"/>
+            <label class="no">Mujer</label><br>
+            <label>CURP:</label>
+            <input type="text" name="c" placeholder="Ingresa tu Curp" required="required"/>
+            <label>Correo:</label>
+            <input type="text" name="correo" placeholder="Ingresa tu Correo" required="required"/>
+            <label>Contaseña:</label>
+            <input type="text" name="pass" placeholder="Ingresa tu Contraseña" required="required"/>
+            <div class="g-recaptcha" data-sitekey="6LdqFuAUAAAAAHdwBnYK5FpnCEp7PnwuPY-A4kFa"></div>
+            <input type="submit" value="Registrar"/>
+        </form>
+        <script type="text/javascript" src="JavaScript/Funciones.js"></script>
+    </body>
+</html>

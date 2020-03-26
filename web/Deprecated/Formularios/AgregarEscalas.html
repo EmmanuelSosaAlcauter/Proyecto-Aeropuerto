@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+    <center> <h1>Escalas</h1>
+        <form name="formulario" action="escalas.jsp" method="POST" >
+            <div>
+                <br>
+                <label>Fecha salida:</label>
+                <input maxlength="2" name="fecha_salida" type="date" required>
+                <br><br>                
+                <label>Hora salida</label> 
+                <input maxlength="25" type="time" name="hora_salida" required>
+                <br><br>
+                <label>Fecha llegada</label>
+                <input maxlength="2" name="fecha_llegada" type="date" required>
+                <br><br>                
+                <label>Hora llegada:</label> 
+                <input maxlength="25" type="time" name="hora_llegada" required>
+                <br><br>
+                <input type="submit" name="guardar" value="Guardar">
+                <a href="consulta_escalas.jsp"><input type="button" name="consultar" value="Consultar"></a>
+                <input type="button" name="salir" value="Salir">
+            </div>
+        </form></center>
+</body>
+</html>
