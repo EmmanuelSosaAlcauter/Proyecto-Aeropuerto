@@ -1,0 +1,4 @@
+C:\Users\erik_\source\repos\ConsumirServicioWebSimple\ConsumirServicioWebSimple\obj\Debug\ConsumirServicioWebSimple.vbprojAssemblyReference.cache
+C:\Users\erik_\source\repos\ConsumirServicioWebSimple\ConsumirServicioWebSimple\obj\Debug\ConsumirServicioWebSimple.Resources.resources
+C:\Users\erik_\source\repos\ConsumirServicioWebSimple\ConsumirServicioWebSimple\obj\Debug\ConsumirServicioWebSimple.vbproj.GenerateResource.cache
+C:\Users\erik_\source\repos\ConsumirServicioWebSimple\ConsumirServicioWebSimple\obj\Debug\ConsumirServicioWebSimple.vbproj.CoreCompileInputs.cache
